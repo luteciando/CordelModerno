@@ -1,6 +1,6 @@
 # Cordel Moderno
 
-Este é um projeto de site criado durante o curso **HTML5 e CSS3** do Curso em Vídeo.
+Este é um projeto de site criado durante o curso **HTML5 e CSS3** do Curso em Vídeo. Todos os créditos ao professor Guanabara.
 
 ## 📌 Tecnologias usadas
 - HTML5
